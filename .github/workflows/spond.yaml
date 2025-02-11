@@ -23,6 +23,11 @@ jobs:
     - name: Get log
       run: python spond_log.py "${{ secrets.SPOND_USERNAME }}" "${{ secrets.SPOND_PASSWORD }}"
 
+    - name: Git config
+      run: |
+        git config --global user.email "<>"
+        git config --global user.name "GitHut Actions Bot"
+
     - name: Commit
       run: |
         git add lockerley*
