@@ -2,6 +2,9 @@ name: Spond log archiver
 
 on:
   workflow_dispatch:
+  schedule:
+  # 01:17am every Friday
+  - cron: '17 1 * * 5'
 
 jobs:
   get_log:
