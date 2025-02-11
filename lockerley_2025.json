@@ -1,0 +1,286 @@
+{
+    "events": [
+        {
+            "accepted": [
+                "BBB9A25DD18C4110A38D0610A36CB757",
+                "264445807A9943F38983FDEF43EEED11",
+                "4FDDFA0A7FB14F8B836FD8A6A5AC3E2D",
+                "1359540F60714E078C338B1D20120D22",
+                "3E241D0291084402A81C5D2D44DBFAFB",
+                "F45400831DBE44FABB3F781A2BFCDFBF",
+                "CB1D439A7FF24014ADBF5169A95351E7"
+            ],
+            "declined": [
+                "07C5CB524DC545738114FB3589E435D0",
+                "AC79869666F74ECDB8BFF3CEE1FAD4A8",
+                "BA0B7A9AC7FB400C86C5D23BFB7E8083"
+            ],
+            "heading": "Practice at Lockerley",
+            "id": "0E25E0FFD8EE4F5B8A4AFCDD62E97DE6",
+            "startTimestamp": "2025-01-02T19:00:00Z",
+            "unanswered": []
+        },
+        {
+            "accepted": [
+                "BBB9A25DD18C4110A38D0610A36CB757",
+                "264445807A9943F38983FDEF43EEED11",
+                "07C5CB524DC545738114FB3589E435D0",
+                "4FDDFA0A7FB14F8B836FD8A6A5AC3E2D",
+                "1359540F60714E078C338B1D20120D22",
+                "F45400831DBE44FABB3F781A2BFCDFBF",
+                "CB1D439A7FF24014ADBF5169A95351E7"
+            ],
+            "declined": [
+                "3E241D0291084402A81C5D2D44DBFAFB",
+                "AC79869666F74ECDB8BFF3CEE1FAD4A8"
+            ],
+            "heading": "Service ringing at Lockerley",
+            "id": "A4212F8FB8FB4EC7AF0F96A54F191B58",
+            "startTimestamp": "2025-01-05T10:00:00Z",
+            "unanswered": []
+        },
+        {
+            "accepted": [
+                "1359540F60714E078C338B1D20120D22",
+                "264445807A9943F38983FDEF43EEED11",
+                "BBB9A25DD18C4110A38D0610A36CB757",
+                "4FDDFA0A7FB14F8B836FD8A6A5AC3E2D"
+            ],
+            "declined": [
+                "BA0B7A9AC7FB400C86C5D23BFB7E8083",
+                "F45400831DBE44FABB3F781A2BFCDFBF",
+                "AC79869666F74ECDB8BFF3CEE1FAD4A8",
+                "CB1D439A7FF24014ADBF5169A95351E7",
+                "07C5CB524DC545738114FB3589E435D0",
+                "3E241D0291084402A81C5D2D44DBFAFB"
+            ],
+            "heading": "Practice at East Tytherley",
+            "id": "FA05FEF5D7E74920B6C5EFEFEDBAB986",
+            "startTimestamp": "2025-01-09T19:00:00Z",
+            "unanswered": []
+        },
+        {
+            "accepted": [
+                "264445807A9943F38983FDEF43EEED11",
+                "1359540F60714E078C338B1D20120D22",
+                "4FDDFA0A7FB14F8B836FD8A6A5AC3E2D",
+                "F45400831DBE44FABB3F781A2BFCDFBF",
+                "07C5CB524DC545738114FB3589E435D0",
+                "AC79869666F74ECDB8BFF3CEE1FAD4A8"
+            ],
+            "declined": [
+                "BBB9A25DD18C4110A38D0610A36CB757",
+                "CB1D439A7FF24014ADBF5169A95351E7"
+            ],
+            "heading": "Service ringing at Lockerley",
+            "id": "6B232595F15F476B90F6E1577D4419BD",
+            "startTimestamp": "2025-01-12T10:00:00Z",
+            "unanswered": []
+        },
+        {
+            "accepted": [
+                "07C5CB524DC545738114FB3589E435D0",
+                "264445807A9943F38983FDEF43EEED11",
+                "CB1D439A7FF24014ADBF5169A95351E7",
+                "3E241D0291084402A81C5D2D44DBFAFB",
+                "F45400831DBE44FABB3F781A2BFCDFBF",
+                "BBB9A25DD18C4110A38D0610A36CB757",
+                "1359540F60714E078C338B1D20120D22",
+                "AC79869666F74ECDB8BFF3CEE1FAD4A8"
+            ],
+            "declined": [
+                "BA0B7A9AC7FB400C86C5D23BFB7E8083",
+                "4FDDFA0A7FB14F8B836FD8A6A5AC3E2D"
+            ],
+            "heading": "Practice at Lockerley",
+            "id": "2C8305853CF64EFEBD30977B24DD7552",
+            "startTimestamp": "2025-01-16T19:00:00Z",
+            "unanswered": []
+        },
+        {
+            "accepted": [
+                "1359540F60714E078C338B1D20120D22",
+                "264445807A9943F38983FDEF43EEED11",
+                "CB1D439A7FF24014ADBF5169A95351E7",
+                "4FDDFA0A7FB14F8B836FD8A6A5AC3E2D",
+                "F45400831DBE44FABB3F781A2BFCDFBF",
+                "07C5CB524DC545738114FB3589E435D0",
+                "AC79869666F74ECDB8BFF3CEE1FAD4A8"
+            ],
+            "declined": [
+                "BBB9A25DD18C4110A38D0610A36CB757"
+            ],
+            "heading": "Service ringing at Lockerley",
+            "id": "F33EC0EA50FA42138B809FA5D7A233DA",
+            "startTimestamp": "2025-01-19T10:00:00Z",
+            "unanswered": []
+        },
+        {
+            "accepted": [
+                "AC79869666F74ECDB8BFF3CEE1FAD4A8",
+                "3E241D0291084402A81C5D2D44DBFAFB",
+                "264445807A9943F38983FDEF43EEED11",
+                "07C5CB524DC545738114FB3589E435D0",
+                "CB1D439A7FF24014ADBF5169A95351E7",
+                "1359540F60714E078C338B1D20120D22",
+                "BA0B7A9AC7FB400C86C5D23BFB7E8083",
+                "F45400831DBE44FABB3F781A2BFCDFBF"
+            ],
+            "declined": [
+                "BBB9A25DD18C4110A38D0610A36CB757"
+            ],
+            "heading": "Practice at East Tytherley",
+            "id": "6B672EAE3BE045E586145BEAE193F627",
+            "startTimestamp": "2025-01-23T19:00:00Z",
+            "unanswered": [
+                "4FDDFA0A7FB14F8B836FD8A6A5AC3E2D"
+            ]
+        },
+        {
+            "accepted": [
+                "264445807A9943F38983FDEF43EEED11",
+                "CB1D439A7FF24014ADBF5169A95351E7",
+                "1359540F60714E078C338B1D20120D22",
+                "F45400831DBE44FABB3F781A2BFCDFBF",
+                "07C5CB524DC545738114FB3589E435D0",
+                "AC79869666F74ECDB8BFF3CEE1FAD4A8",
+                "4FDDFA0A7FB14F8B836FD8A6A5AC3E2D"
+            ],
+            "declined": [
+                "BBB9A25DD18C4110A38D0610A36CB757"
+            ],
+            "heading": "Service ringing at Lockerley",
+            "id": "1751F7C7F9B64B07B50F6B1CAEB7A4DB",
+            "startTimestamp": "2025-01-26T10:00:00Z",
+            "unanswered": []
+        },
+        {
+            "accepted": [],
+            "cancelled": true,
+            "declined": [
+                "264445807A9943F38983FDEF43EEED11",
+                "BBB9A25DD18C4110A38D0610A36CB757",
+                "07C5CB524DC545738114FB3589E435D0",
+                "AC79869666F74ECDB8BFF3CEE1FAD4A8",
+                "4FDDFA0A7FB14F8B836FD8A6A5AC3E2D",
+                "F45400831DBE44FABB3F781A2BFCDFBF",
+                "1359540F60714E078C338B1D20120D22",
+                "BA0B7A9AC7FB400C86C5D23BFB7E8083",
+                "CB1D439A7FF24014ADBF5169A95351E7",
+                "3E241D0291084402A81C5D2D44DBFAFB"
+            ],
+            "heading": "Practice at Lockerley",
+            "id": "B18512A3738D44368806816F426A6906",
+            "startTimestamp": "2025-01-30T19:00:00Z",
+            "unanswered": []
+        },
+        {
+            "accepted": [
+                "264445807A9943F38983FDEF43EEED11",
+                "CB1D439A7FF24014ADBF5169A95351E7",
+                "BBB9A25DD18C4110A38D0610A36CB757",
+                "1359540F60714E078C338B1D20120D22",
+                "AC79869666F74ECDB8BFF3CEE1FAD4A8",
+                "F45400831DBE44FABB3F781A2BFCDFBF",
+                "07C5CB524DC545738114FB3589E435D0"
+            ],
+            "declined": [
+                "4FDDFA0A7FB14F8B836FD8A6A5AC3E2D"
+            ],
+            "heading": "Service ringing at Lockerley",
+            "id": "E717231E038740C8BAB623D8B3DB7902",
+            "startTimestamp": "2025-02-02T10:00:00Z",
+            "unanswered": []
+        },
+        {
+            "accepted": [
+                "264445807A9943F38983FDEF43EEED11",
+                "3E241D0291084402A81C5D2D44DBFAFB",
+                "BBB9A25DD18C4110A38D0610A36CB757",
+                "1359540F60714E078C338B1D20120D22",
+                "CB1D439A7FF24014ADBF5169A95351E7",
+                "BA0B7A9AC7FB400C86C5D23BFB7E8083",
+                "07C5CB524DC545738114FB3589E435D0",
+                "F45400831DBE44FABB3F781A2BFCDFBF",
+                "AC79869666F74ECDB8BFF3CEE1FAD4A8"
+            ],
+            "declined": [
+                "4FDDFA0A7FB14F8B836FD8A6A5AC3E2D"
+            ],
+            "heading": "Practice at Lockerley",
+            "id": "6143948AA5B24BB5B6F78F06FB67E74C",
+            "startTimestamp": "2025-02-06T19:00:00Z",
+            "unanswered": []
+        },
+        {
+            "accepted": [
+                "264445807A9943F38983FDEF43EEED11",
+                "1359540F60714E078C338B1D20120D22",
+                "07C5CB524DC545738114FB3589E435D0",
+                "AC79869666F74ECDB8BFF3CEE1FAD4A8",
+                "CB1D439A7FF24014ADBF5169A95351E7",
+                "BBB9A25DD18C4110A38D0610A36CB757",
+                "F45400831DBE44FABB3F781A2BFCDFBF"
+            ],
+            "declined": [
+                "4FDDFA0A7FB14F8B836FD8A6A5AC3E2D"
+            ],
+            "heading": "Service ringing at Lockerley",
+            "id": "72AEA2BA43C14FB58966FA0F123B6ACF",
+            "startTimestamp": "2025-02-09T10:00:00Z",
+            "unanswered": []
+        }
+    ],
+    "members": [
+        {
+            "firstName": "Gary",
+            "id": "BBB9A25DD18C4110A38D0610A36CB757",
+            "lastName": "Davies"
+        },
+        {
+            "firstName": "John",
+            "id": "07C5CB524DC545738114FB3589E435D0",
+            "lastName": "Palk"
+        },
+        {
+            "firstName": "Carol",
+            "id": "4FDDFA0A7FB14F8B836FD8A6A5AC3E2D",
+            "lastName": "Higgins"
+        },
+        {
+            "firstName": "Bren",
+            "id": "AC79869666F74ECDB8BFF3CEE1FAD4A8",
+            "lastName": "Palk"
+        },
+        {
+            "firstName": "Michaela",
+            "id": "3E241D0291084402A81C5D2D44DBFAFB",
+            "lastName": "Nadal"
+        },
+        {
+            "firstName": "Jennifer",
+            "id": "1359540F60714E078C338B1D20120D22",
+            "lastName": "Churchill"
+        },
+        {
+            "firstName": "Sheila",
+            "id": "CB1D439A7FF24014ADBF5169A95351E7",
+            "lastName": "Piper"
+        },
+        {
+            "firstName": "Mark",
+            "id": "F45400831DBE44FABB3F781A2BFCDFBF",
+            "lastName": "Warner"
+        },
+        {
+            "firstName": "Wendy",
+            "id": "BA0B7A9AC7FB400C86C5D23BFB7E8083",
+            "lastName": "Nash"
+        },
+        {
+            "firstName": "Alan",
+            "id": "264445807A9943F38983FDEF43EEED11",
+            "lastName": "Sparrow"
+        }
+    ]
+}
