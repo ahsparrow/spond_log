@@ -7,7 +7,7 @@ from spond import spond
 groupid = "DFD7AD3B53E2406FB51E0C81728ADC2F"
 
 
-async def spond_log(username=username, password=password):
+async def spond_log(username, password):
     session = spond.Spond(username=username, password=password)
 
     year = date.today().year
