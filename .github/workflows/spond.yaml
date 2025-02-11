@@ -23,3 +23,8 @@ jobs:
     - name: Get log
       run: python spond_log.py "${{ secrets.SPOND_USERNAME }}" "${{ secrets.SPOND_PASSWORD }}"
 
+    - name: Commit
+      run: |
+        git add lockerley*
+        git commit -m "New log"
+        git push origin master
