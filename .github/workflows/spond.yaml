@@ -34,4 +34,4 @@ jobs:
       run: |
         git add lockerley*
         git commit -m "New log"
-        git push origin master
+        git push origin log
