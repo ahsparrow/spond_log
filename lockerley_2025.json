@@ -1457,6 +1457,45 @@
             "id": "A9A8B96E655F461A8AE1A5D8FBE80B35",
             "startTimestamp": "2025-09-18T18:00:00Z",
             "unanswered": []
+        },
+        {
+            "accepted": [
+                "1359540F60714E078C338B1D20120D22",
+                "CB1D439A7FF24014ADBF5169A95351E7",
+                "BBB9A25DD18C4110A38D0610A36CB757"
+            ],
+            "cancelled": true,
+            "declined": [
+                "264445807A9943F38983FDEF43EEED11",
+                "AC79869666F74ECDB8BFF3CEE1FAD4A8",
+                "4FDDFA0A7FB14F8B836FD8A6A5AC3E2D",
+                "07C5CB524DC545738114FB3589E435D0",
+                "F45400831DBE44FABB3F781A2BFCDFBF"
+            ],
+            "heading": "Service ringing at East Tytherley",
+            "id": "9BEE9BBB285F48839C110AE72994B8D4",
+            "startTimestamp": "2025-09-21T09:00:00Z",
+            "unanswered": []
+        },
+        {
+            "accepted": [
+                "1359540F60714E078C338B1D20120D22",
+                "CB1D439A7FF24014ADBF5169A95351E7",
+                "264445807A9943F38983FDEF43EEED11",
+                "BBB9A25DD18C4110A38D0610A36CB757",
+                "4FDDFA0A7FB14F8B836FD8A6A5AC3E2D",
+                "BA0B7A9AC7FB400C86C5D23BFB7E8083",
+                "3E241D0291084402A81C5D2D44DBFAFB"
+            ],
+            "declined": [
+                "F45400831DBE44FABB3F781A2BFCDFBF",
+                "AC79869666F74ECDB8BFF3CEE1FAD4A8",
+                "07C5CB524DC545738114FB3589E435D0"
+            ],
+            "heading": "Practice at East Tytherley",
+            "id": "3AD2304C98994A7BA2D099893D6D4C5E",
+            "startTimestamp": "2025-09-25T18:00:00Z",
+            "unanswered": []
         }
     ],
     "members": [
