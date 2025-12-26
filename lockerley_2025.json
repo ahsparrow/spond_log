@@ -2007,6 +2007,80 @@
             "id": "0E22C1A6ADCB4EFCAC5F94E56DDC7ECE",
             "startTimestamp": "2025-12-18T19:00:00Z",
             "unanswered": []
+        },
+        {
+            "accepted": [],
+            "cancelled": true,
+            "declined": [],
+            "heading": "Service ringing at East Tytherley",
+            "id": "A9DE4768861F40DF9A8F48F439939682",
+            "startTimestamp": "2025-12-21T10:00:00Z",
+            "unanswered": [
+                "CB1D439A7FF24014ADBF5169A95351E7",
+                "07C5CB524DC545738114FB3589E435D0",
+                "264445807A9943F38983FDEF43EEED11",
+                "4FDDFA0A7FB14F8B836FD8A6A5AC3E2D",
+                "1359540F60714E078C338B1D20120D22",
+                "BBB9A25DD18C4110A38D0610A36CB757",
+                "F45400831DBE44FABB3F781A2BFCDFBF",
+                "AC79869666F74ECDB8BFF3CEE1FAD4A8"
+            ]
+        },
+        {
+            "accepted": [
+                "BBB9A25DD18C4110A38D0610A36CB757",
+                "264445807A9943F38983FDEF43EEED11",
+                "07C5CB524DC545738114FB3589E435D0",
+                "1359540F60714E078C338B1D20120D22",
+                "F45400831DBE44FABB3F781A2BFCDFBF",
+                "CB1D439A7FF24014ADBF5169A95351E7",
+                "AC79869666F74ECDB8BFF3CEE1FAD4A8"
+            ],
+            "declined": [
+                "4FDDFA0A7FB14F8B836FD8A6A5AC3E2D"
+            ],
+            "heading": "Service ringing at Lockerley",
+            "id": "97B10CF335D34DEAB89B5D54DB912E20",
+            "startTimestamp": "2025-12-21T17:30:00Z",
+            "unanswered": []
+        },
+        {
+            "accepted": [
+                "1359540F60714E078C338B1D20120D22",
+                "CB1D439A7FF24014ADBF5169A95351E7",
+                "4FDDFA0A7FB14F8B836FD8A6A5AC3E2D",
+                "BBB9A25DD18C4110A38D0610A36CB757"
+            ],
+            "declined": [
+                "264445807A9943F38983FDEF43EEED11",
+                "07C5CB524DC545738114FB3589E435D0",
+                "F45400831DBE44FABB3F781A2BFCDFBF",
+                "AC79869666F74ECDB8BFF3CEE1FAD4A8"
+            ],
+            "heading": "Service ringing at Lockerley",
+            "id": "73E8E81A71A94F5D9A7570443935497C",
+            "startTimestamp": "2025-12-24T15:30:00Z",
+            "unanswered": []
+        },
+        {
+            "accepted": [],
+            "cancelled": true,
+            "declined": [],
+            "heading": "Practice at East Tytherley",
+            "id": "A822A04970FE4B8B8005FA9D911AF34A",
+            "startTimestamp": "2025-12-25T19:00:00Z",
+            "unanswered": [
+                "AC79869666F74ECDB8BFF3CEE1FAD4A8",
+                "F45400831DBE44FABB3F781A2BFCDFBF",
+                "BA0B7A9AC7FB400C86C5D23BFB7E8083",
+                "1359540F60714E078C338B1D20120D22",
+                "CB1D439A7FF24014ADBF5169A95351E7",
+                "264445807A9943F38983FDEF43EEED11",
+                "3E241D0291084402A81C5D2D44DBFAFB",
+                "BBB9A25DD18C4110A38D0610A36CB757",
+                "07C5CB524DC545738114FB3589E435D0",
+                "4FDDFA0A7FB14F8B836FD8A6A5AC3E2D"
+            ]
         }
     ],
     "members": [
