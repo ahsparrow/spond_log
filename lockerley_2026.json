@@ -624,6 +624,46 @@
             "id": "4473E3278AAD472AA20E3DD751BAAA34",
             "startTimestamp": "2026-04-09T18:00:00Z",
             "unanswered": []
+        },
+        {
+            "accepted": [
+                "4FDDFA0A7FB14F8B836FD8A6A5AC3E2D",
+                "F45400831DBE44FABB3F781A2BFCDFBF",
+                "07C5CB524DC545738114FB3589E435D0",
+                "AC79869666F74ECDB8BFF3CEE1FAD4A8",
+                "1359540F60714E078C338B1D20120D22",
+                "264445807A9943F38983FDEF43EEED11",
+                "CB1D439A7FF24014ADBF5169A95351E7",
+                "BBB9A25DD18C4110A38D0610A36CB757"
+            ],
+            "declined": [],
+            "heading": "Service ringing at Lockerley",
+            "id": "D2099FBBD44C4BC186CE0C7ECB3A3849",
+            "startTimestamp": "2026-04-12T09:00:00Z",
+            "unanswered": []
+        },
+        {
+            "accepted": [
+                "07C5CB524DC545738114FB3589E435D0",
+                "1359540F60714E078C338B1D20120D22",
+                "264445807A9943F38983FDEF43EEED11",
+                "BBB9A25DD18C4110A38D0610A36CB757",
+                "AC79869666F74ECDB8BFF3CEE1FAD4A8",
+                "F45400831DBE44FABB3F781A2BFCDFBF"
+            ],
+            "declined": [
+                "FE09EFAF3563405F94425E0D31A7F264",
+                "BA0B7A9AC7FB400C86C5D23BFB7E8083",
+                "3E241D0291084402A81C5D2D44DBFAFB",
+                "CB1D439A7FF24014ADBF5169A95351E7"
+            ],
+            "heading": "Practice at Lockerley",
+            "id": "2AF4EC42E2E546FA9FD6E9F4FABF71A0",
+            "startTimestamp": "2026-04-16T18:00:00Z",
+            "unanswered": [
+                "C6EB16BE7D924A94B1564EB284D4DA51",
+                "4FDDFA0A7FB14F8B836FD8A6A5AC3E2D"
+            ]
         }
     ],
     "members": [
